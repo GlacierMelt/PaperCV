@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch10.ckpt"
+all_model_checkpoint_paths: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch6.ckpt"
+all_model_checkpoint_paths: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch7.ckpt"
+all_model_checkpoint_paths: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch8.ckpt"
+all_model_checkpoint_paths: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch9.ckpt"
+all_model_checkpoint_paths: "D:/AI/Workspace/Paper CV/AlexNet/finetune_alexnet_with_tensorflow/checkpoints\\model_epoch10.ckpt"
